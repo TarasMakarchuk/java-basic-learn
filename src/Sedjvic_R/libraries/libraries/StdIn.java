@@ -1,5 +1,5 @@
 // created 22.03.2021
-package Sedjvic_R.libraries;
+package Sedjvic_R.libraries.libraries;
 
 /******************************************************************************
  *  Compilation:  javac StdIn.java
